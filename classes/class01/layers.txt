@@ -1,4 +1,3 @@
-
 workers -> processo em segundo plano
   -> toda logica PESADA (que envolva CPU)
   -> tudo que pode travar a tela (for loop, machine learning, AI, processamento de Web CAM)
